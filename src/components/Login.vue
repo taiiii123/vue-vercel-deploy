@@ -12,6 +12,7 @@
             </div>
             <button type="submit">ログイン</button>
             <p v-if="error" class="error">{{ error }}</p>
+            <p>test</p>
         </form>
     </div>
 </template>
